@@ -1,3 +1,5 @@
+[![Codespaces Prebuilds](https://github.com/pramodkpv/functions-from-zero/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg?branch=main)](https://github.com/pramodkpv/functions-from-zero/actions/workflows/codespaces/create_codespaces_prebuilds)
+
 # functions-from-zero
 A repo to learn functions
 
